@@ -10,3 +10,5 @@ All nodes are connected to a mesh network. Nearby nodes directly via WiFi or cab
 - Wiki: https://wiki.pinneberg.freifunk.net/doku.php
 - Forum: https://pinneberg.freifunk.net/forum/
 - Social Media: [Facebook](https://www.facebook.com/FreifunkPinneberg/), [Mastodon](https://norden.social/@FreifunkPI), [Twitter](https://twitter.com/FreifunkPI)
+
+Pinneberg isn't the only place with Freifunk. You can find other communities here https://freifunk.net/en/how-to-join/find-your-nearest-community/
